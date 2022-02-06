@@ -1,2 +1,2 @@
-# Smartly-Inject
-Simple Hubitat dashboard configurator.
+# Smartly Inject
+Smartly Inject is an open-source 
